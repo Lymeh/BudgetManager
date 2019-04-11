@@ -1,4 +1,4 @@
-package com.lymeh.dv.budgetmanager.sections
+package com.lymeh.dv.budgetmanager.sections.transactions
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.lymeh.dv.budgetmanager.sections.TransactionsActivity">
+        tools:context="com.lymeh.dv.budgetmanager.sections.transactions.TransactionsActivity">
 
     <TextView
             android:id="@+id/welcome"
